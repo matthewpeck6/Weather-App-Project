@@ -14,4 +14,4 @@ weather app project using JSON/API, Web Scraping, and Streamlit App Library
 9. The app should open in your default browser.
 
 
-<img src="streamlit-weatherapp-GUI.gif" title="walkthrough" width="500" height="500"/>
+<img src="streamlit-weatherapp-GUI.gif" title="walkthrough" width="1000" height="600"/>
